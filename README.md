@@ -7,6 +7,8 @@ Goal: This repository contains scripts for the manuscript "Stickleback populatio
 Ordering:
 The scripts are ordered numerically, from initial assembly to final analyses. Each script is described below:
 
-0_Assembly
+- 0_Assembly= Script from fastq files to sync file
+
+
 
 
