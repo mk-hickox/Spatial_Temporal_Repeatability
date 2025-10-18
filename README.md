@@ -11,9 +11,11 @@ The scripts are ordered numerically, from initial assembly to final analyses. Ea
 - 1_FST_Generation= Calculate FST
 - 2_Allele_Frequency_Differences= Calculate allele frequencies 
 - 3_PCA= Calculate PCAs (env and outliers)
-- 4_Repeatability= Characterize the repeatability of each outlier
+- 4_Repeatability= Characterize the repeatability of each outlier and generate plot
 - 5_Manhatten_Plots= Generate spatial and spatio-temporal manhatten plots 
-
+- 6_Upset= Generate upset plots
+- 7_Permutations= Run permutations and calculate p values 
+- 8_Genes= ID genes, determine repeatability at gene level, and generate a figure
 
 
 
